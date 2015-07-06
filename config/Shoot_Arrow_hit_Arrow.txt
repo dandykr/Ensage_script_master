@@ -1,0 +1,9 @@
+Hotkey = F
+Arrowkey = D
+
+
+ShowLineAlways = false
+ShowLinefortimedArrow = true
+LineSleep = 500
+ArrowTolerancy = 800
+StopKey = S

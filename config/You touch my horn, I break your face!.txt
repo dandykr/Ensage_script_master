@@ -1,0 +1,6 @@
+customrp = 32
+autorp = D
+toggleskewer = G
+customrptreshold = 3
+autoshoqwave = F
+autoskewer = T

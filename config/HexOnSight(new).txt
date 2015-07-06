@@ -1,0 +1,8 @@
+UseEthereal = true
+UseCyclone = true
+Active = F
+UseSheepstick = true
+UseAtos = true
+UseOrchid = true
+UseAbyssal = true
+UseHalberd = true

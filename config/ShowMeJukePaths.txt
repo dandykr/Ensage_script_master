@@ -1,0 +1,35 @@
+pathcolor_green = 255
+pathcolor_red = 255
+PerformanceBrush = false
+pathcolor_blue = 255
+TreeCutSpotPingStatic = true
+
+
+pathcolor_red = 255
+pathcolor_green = 255
+pathcolor_blue = 255
+
+
+pathcolor_red = 255
+pathcolor_blue = 255
+pathcolor_green = 255
+
+
+pathcolor_blue = 255
+pathcolor_green = 255
+pathcolor_red = 255
+
+
+pathcolor_red = 255
+pathcolor_green = 255
+pathcolor_blue = 255
+
+
+pathcolor_green = 255
+pathcolor_red = 255
+pathcolor_blue = 255
+
+
+pathcolor_red = 255
+pathcolor_blue = 255
+pathcolor_green = 255

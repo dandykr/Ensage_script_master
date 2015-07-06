@@ -1,0 +1,4 @@
+Hotkey = D
+
+
+CallHotkey = F

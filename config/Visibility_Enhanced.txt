@@ -1,0 +1,11 @@
+Self = true
+Courier = true
+Mines = true
+Neutral = true
+Creep = true
+Allies = true
+Building = true
+SummonMisc = true
+VisibleRune = false
+VisibleRoshan = false
+Ward = true

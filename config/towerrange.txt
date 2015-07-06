@@ -1,0 +1,3 @@
+EnemyRange = true
+TowerRange = 850
+OwnRange = true

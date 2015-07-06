@@ -1,0 +1,4 @@
+Stop = S
+FreeAttack = true
+NoSpam = true
+Toggle = X

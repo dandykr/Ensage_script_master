@@ -1,0 +1,2 @@
+ComboKey = F
+ToggleKey = D

@@ -1,0 +1,3 @@
+DropTranquils = 
+Hotkey = L
+DropBlink = 

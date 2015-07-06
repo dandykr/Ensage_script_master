@@ -1,0 +1,5 @@
+ToggleKey = H
+
+
+StealAegis = J
+DenyAegis = K

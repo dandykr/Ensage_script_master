@@ -1,0 +1,8 @@
+Xcord = 375
+Ycord = 0
+Height = 37
+Centwidth = 145
+Width = 47
+
+
+Ping = false

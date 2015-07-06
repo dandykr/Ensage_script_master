@@ -1,0 +1,8 @@
+Active = 221
+ShowStatisRange = false
+ShowSentry = true
+ShowMineVisibility = true
+ShowRemoteMineRange = true
+ShowMineRequired = true
+ShowGem = true
+ShowLandMineRange = true

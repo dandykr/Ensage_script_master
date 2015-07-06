@@ -1,0 +1,10 @@
+Hotkey = F
+SkillBuild = 1
+TextPositionY = 40
+HideKey = G
+TextPositionX = 5
+RazeKey = D
+
+
+UseEthereal = G
+ShowText = true

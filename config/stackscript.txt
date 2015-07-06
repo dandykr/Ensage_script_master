@@ -1,0 +1,1251 @@
+Hotkey = T
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-Y = 50
+GUI-X = 5
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-X = 5
+GUI-Y = 50
+
+
+GUI-Y = 50
+GUI-X = 5

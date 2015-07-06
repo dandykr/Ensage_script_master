@@ -1,0 +1,15 @@
+Hotkey = F
+Hookkey = D
+ManualtoggleKey = M
+StopKey = H
+
+HookTolerancy = 150
+PredictionGUI = false
+EnableMouseAdjusting = false
+GuiSleep = 0
+HookCanceling = true
+
+AutoEthereal = true
+AutoCombo = true
+BlindHooks = false
+AutoUrn = true

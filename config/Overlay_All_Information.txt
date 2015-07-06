@@ -1,0 +1,10 @@
+ShowRune = true
+ShowCourier = true
+overlaySpell = true
+topPanel = true
+overlayItem = true
+manaBar = true
+glypPanel = true
+
+
+ShowIfVisible = true

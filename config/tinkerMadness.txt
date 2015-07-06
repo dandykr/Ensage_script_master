@@ -1,0 +1,8 @@
+MinimumCombo = item_blink, item_dagon
+GUI x Position = 5
+GUI y Position = 70
+Hotkey = F
+
+AlwaysUlti = true
+ComboSleep =  
+StopKey = S

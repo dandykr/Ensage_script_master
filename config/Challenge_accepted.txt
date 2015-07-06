@@ -1,0 +1,3 @@
+toggleKey = F
+StopComboKey = S
+BlinkComboKey = D

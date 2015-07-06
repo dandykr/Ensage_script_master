@@ -1,0 +1,3 @@
+UltimateToggle = K
+ComboKey = D
+TextToggle = P

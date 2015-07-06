@@ -1,0 +1,10 @@
+TextY = 0
+Blink = true
+ShowText = true
+DelayBlink = 0
+ShortBlinkDodge = true
+TextSize = 14
+DelayEulOnTarget = 0
+Eul = true
+TextX = 0
+BlinkToggleKey = N

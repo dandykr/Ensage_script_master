@@ -1,0 +1,2 @@
+Hotkey = B
+Range = 1200

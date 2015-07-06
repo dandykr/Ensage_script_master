@@ -1,0 +1,3 @@
+RUS = false
+SAYTEAM = false
+Rand = true

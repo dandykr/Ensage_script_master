@@ -1,0 +1,4 @@
+AutoPick = true
+CheatMidMine = J
+SkillBuild = 1
+StartingItems = 1

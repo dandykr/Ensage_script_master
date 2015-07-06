@@ -1,0 +1,4 @@
+GUI y Position = 70
+GUI x Position = 5
+Hotkey = F
+MinimumCombo = item_blink, item_sheepstick
